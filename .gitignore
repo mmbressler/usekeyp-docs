@@ -103,3 +103,10 @@ dist
 # TernJS port file
 .tern-port
 .DS_Store
+.docusaurus/site-metadata.json
+.docusaurus/routesChunkNames.json
+.docusaurus/routes.js
+.docusaurus/registry.js
+.docusaurus/docusaurus.config.mjs
+.docusaurus/docusaurus-plugin-debug/default/docusaurus-debug-all-content-673.json
+.docusaurus/client-modules.js
