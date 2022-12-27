@@ -51,7 +51,7 @@ the docs.
 Here's how to get started with Codespaces:
 
 1) In the documentation repository, click on the `Code` button and then the name of the codespace for it to start automatically
-   <img width="400px" src="./static/img/codespaces.png" />
+   <img width="420" alt="codespaces tab in repo" src="https://user-images.githubusercontent.com/47253537/209730854-47862a8e-d701-4e4c-b093-39e9ca50515d.png">
 2) Notice that all the directories are on the left side of the screen
 3) If you want to add a post to the blog, right-click on the blog directory and create a new file that ends in `.md`
 4) Use the format of the other blog posts as guidance to add your own
@@ -59,7 +59,7 @@ Here's how to get started with Codespaces:
    added
 6) To publish the changes, click on the `Source Control` tab on the left side of the screen, write a description of your
    change, and press commit and push
-   <img width="400px" src="./static/img/commit_with_codespaces.png" />
+   <img width="344" alt="committing to repo with codespaces" src="https://user-images.githubusercontent.com/47253537/209730956-3554d066-e64a-4fa9-856d-fb42504a830f.png">
 
 
 
