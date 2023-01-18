@@ -1,6 +1,5 @@
 ---
-sidebar_position: 2
-slug: /
+sidebar_position: 1
 ---
 
 # Tutorial Intro

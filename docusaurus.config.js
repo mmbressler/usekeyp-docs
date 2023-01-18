@@ -67,6 +67,11 @@ const config = {
             label: "GitHub",
             position: "right",
           },
+          {
+            href: "https://schedule.usekeyp.com",
+            label: "Partner with us",
+            position: "right",
+          },
         ],
       },
       footer: {
