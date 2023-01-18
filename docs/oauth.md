@@ -5,6 +5,8 @@ sidebar_label: "OAuth Setup"
 
 # OAuth
 
+OAuth is a standard protocol that allows users to authorize API access to web and desktop or mobile applications. Once access has been granted, the authorized application can utilize the API on behalf of the user. OAuth has also emerged as a popular mechanism for delegated authentication.
+
 The only things needed to give your users EVM accounts on any network, and integrate with Keyp is:
 
 1. An OAuth2 server
@@ -21,6 +23,12 @@ Keyp has open sourced a Redwood implementation of a standard OAuth2 server, whic
 ## Passportjs
 
 For React apps, we suggest you follow the Passport docs: https://www.passportjs.org/concepts/authentication/oauth/
+
+# Login Components
+
+Keyp does not currently inject any new components into your app, or create any UI modals. The implementation is completely up to app developers.
+
+More options on this coming soon.
 
 # Apps without Backends
 
