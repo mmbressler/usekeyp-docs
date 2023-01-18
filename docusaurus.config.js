@@ -53,19 +53,17 @@ const config = {
     ({
       navbar: {
         logo: {
-          alt: "My Site Logo",
+          alt: "Keyp Logo",
           src: "img/logo.svg",
         },
         items: [
           {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Tutorial",
+            href: "https://blog.usekeyp.com",
+            label: "Blog",
+            position: "right",
           },
-          {to: "/blog", label: "Blog", position: "left"},
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/usekeyp/usekeyp-docs",
             label: "GitHub",
             position: "right",
           },
