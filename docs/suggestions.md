@@ -5,7 +5,7 @@ sidebar_label: "What to build with Keyp"
 
 # App Suggestions
 
-The first app built with the Keyp onboarding stack was [Treasure Chess](treasure.chess.com). Treasure Chess allows users to log in with their existing chess.com accounts, participate in an NFT collecting game, access a gasless NFT marketplace using USDC, and buy items with credit cards. These were all major UX improvements over most dapps being built. Consider how those improvements could apply to your apps.
+The first app built with the Keyp onboarding stack was [Treasure Chess](https://treasure.chess.com). Treasure Chess allows users to log in with their existing chess.com accounts, participate in an NFT collecting game, access a gasless NFT marketplace using USDC, and buy items with credit cards. These were all major UX improvements over most dapps being built. Consider how those improvements could apply to your apps.
 
 ## Games
 
